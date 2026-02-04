@@ -11,7 +11,7 @@
 							aria-hidden="true"
 							class="usa-banner__header-flag"
 							src="uswds/dist/img/us_flag_small.png"
-							alt="" />
+							alt="abc" />
 					</div>
 					<div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
 						<p class="usa-banner__header-text">
